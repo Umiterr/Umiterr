@@ -2,7 +2,9 @@
 I'm a Junior Fullstack Developer with a genuine passion for learning and making a positive impact in the world of software development. I thrive on the creative process and enjoy contributing my skills at every stage of a project. Where I particularly shine with JavaScript and popular frameworks like React.js and Node.js. I'm committed to staying on top of industry trends, always eager to innovate and deliver effective solutions!
 
 ---
-## Tecnologies:
+
+
+## Tecnologies
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
