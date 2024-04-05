@@ -3,7 +3,7 @@ I'm a Junior Fullstack Developer with a genuine passion for learning and making 
 
 ---
 
-[<img align="center" width="500" alt="Data" src="general.svg">]
+<img align="center" width="500" alt="Data" src="general.svg">
 
 
 
