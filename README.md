@@ -3,7 +3,7 @@ I'm a Fullstack Developer with a genuine passion for learning and making a posit
 
 ---
 
-[<img align="center" width="390" alt="Data" src="general.svg">(#)
+[<img align="center" width="500" alt="Data" src="general.svg">
 
 
 
