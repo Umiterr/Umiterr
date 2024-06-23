@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
-          config_order: markdown, base.header, isocalendar, languages, notable, followup, topics, 
+          config_order: base.header, isocalendar, languages, notable, followup, topics, 
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
@@ -33,6 +33,7 @@ jobs:
           plugin_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, scala, c, c++, python, css, html
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
           plugin_languages_recent_categories: markup, programming
