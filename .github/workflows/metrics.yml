@@ -30,7 +30,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, scala, c, c++, python, css
+          plugin_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, scala, c, c++, python, css, html
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
